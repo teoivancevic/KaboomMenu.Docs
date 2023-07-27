@@ -1,0 +1,23 @@
+{
+  "unversionedId": "zakljucak",
+  "id": "zakljucak",
+  "title": "5. Zaključak",
+  "description": "Aplikacija je trenutno namijenjena za stvaranje online cjenika dostupnog svim posjetiteljima ugostiteljskih objekata. Korisnik je u mogućnosti stvoriti vlastiti cjenik za ugostiteljski objekt te uređivati ga i ažurirati u trenutku. U skorijoj budućnosti planiramo omogućiti naručivanje za stol, prikazivanje narudžbi ugostiteljskom objektu te ostvariti mogućnost plaćanja putem mobilnih telefona putem internetskog bankarstva. Također, daljnjim razvojem aplikacije, planiramo i pokrenuti promocije na društvenim mrežama kako bi aplikacija KaboomMenu privukla širu publiku.",
+  "source": "@site/docs/zakljucak.md",
+  "sourceDirName": ".",
+  "slug": "/zakljucak",
+  "permalink": "/docs/zakljucak",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/zakljucak.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4.2. Arhitektira i implementacija projekta",
+    "permalink": "/docs/izvedba-projekta/arhitektura"
+  }
+}

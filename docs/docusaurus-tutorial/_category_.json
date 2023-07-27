@@ -1,0 +1,8 @@
+{
+  "label": "0. Docusaurus Tutorial",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Default tutorial given by Docusaurus",
+  }
+}

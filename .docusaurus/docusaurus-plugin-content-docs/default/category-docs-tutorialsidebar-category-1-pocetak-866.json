@@ -1,0 +1,16 @@
+{
+  "title": "1. Početak",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/1-početak",
+  "permalink": "/docs/category/1-početak",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/docusaurus-tutorial/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "1.1. O aplikaciji",
+      "permalink": "/docs/pocetak/o-aplikaciji"
+    }
+  }
+}

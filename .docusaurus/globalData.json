@@ -1,0 +1,138 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "docusaurus-tutorial/intro",
+          "docs": [
+            {
+              "id": "docusaurus-tutorial/intro",
+              "path": "/docs/docusaurus-tutorial/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-tutorial/tutorial-basics/congratulations",
+              "path": "/docs/docusaurus-tutorial/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-tutorial/tutorial-basics/create-a-blog-post",
+              "path": "/docs/docusaurus-tutorial/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-tutorial/tutorial-basics/create-a-document",
+              "path": "/docs/docusaurus-tutorial/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-tutorial/tutorial-basics/create-a-page",
+              "path": "/docs/docusaurus-tutorial/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-tutorial/tutorial-basics/deploy-your-site",
+              "path": "/docs/docusaurus-tutorial/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-tutorial/tutorial-basics/markdown-features",
+              "path": "/docs/docusaurus-tutorial/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-tutorial/tutorial-extras/manage-docs-versions",
+              "path": "/docs/docusaurus-tutorial/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-tutorial/tutorial-extras/translate-your-site",
+              "path": "/docs/docusaurus-tutorial/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "izvedba-projekta/arhitektura",
+              "path": "/docs/izvedba-projekta/arhitektura",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "izvedba-projekta/koristeni-alati",
+              "path": "/docs/izvedba-projekta/koristeni-alati",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pocetak/o-aplikaciji",
+              "path": "/docs/pocetak/o-aplikaciji",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pocetak/uloge-korisnika",
+              "path": "/docs/pocetak/uloge-korisnika",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "potrebne-specifikacije",
+              "path": "/docs/potrebne-specifikacije",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "prirucnik-za-korisnike/poruka-dobrodoslice",
+              "path": "/docs/prirucnik-za-korisnike/poruka-dobrodoslice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "zakljucak",
+              "path": "/docs/zakljucak",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/0-docusaurus-tutorial",
+              "path": "/docs/category/0-docusaurus-tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/1-početak",
+              "path": "/docs/category/1-početak",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/3-priručnik-za-korisnike",
+              "path": "/docs/category/3-priručnik-za-korisnike",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/4-izvedba-projekta",
+              "path": "/docs/category/4-izvedba-projekta",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/0-docusaurus-tutorial",
+                "label": "0. Docusaurus Tutorial"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

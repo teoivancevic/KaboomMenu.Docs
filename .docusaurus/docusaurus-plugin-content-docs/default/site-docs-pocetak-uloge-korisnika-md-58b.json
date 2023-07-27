@@ -1,0 +1,26 @@
+{
+  "unversionedId": "pocetak/uloge-korisnika",
+  "id": "pocetak/uloge-korisnika",
+  "title": "1.2. Uloge korisnika i njihov opis",
+  "description": "Pristup aplikaciji će biti moguć kroz 4 uloge - vlasnici ugostiteljskih objekata, ovlašteni zaposlenici objekata, posjetitelji objekata i vlasnici aplikacije Kaboom. Dopuštenja i opis svake od uloga su objašnjena u tablici:",
+  "source": "@site/docs/pocetak/uloge-korisnika.md",
+  "sourceDirName": "pocetak",
+  "slug": "/pocetak/uloge-korisnika",
+  "permalink": "/docs/pocetak/uloge-korisnika",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pocetak/uloge-korisnika.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_positon": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.1. O aplikaciji",
+    "permalink": "/docs/pocetak/o-aplikaciji"
+  },
+  "next": {
+    "title": "2. Potrebne specifikacije",
+    "permalink": "/docs/potrebne-specifikacije"
+  }
+}

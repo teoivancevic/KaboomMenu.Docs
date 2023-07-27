@@ -1,0 +1,16 @@
+{
+  "title": "4. Izvedba projekta",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/4-izvedba-projekta",
+  "permalink": "/docs/category/4-izvedba-projekta",
+  "navigation": {
+    "previous": {
+      "title": "3.1. Poruka dobrodošlice",
+      "permalink": "/docs/prirucnik-za-korisnike/poruka-dobrodoslice"
+    },
+    "next": {
+      "title": "4.1. Korišteni alati i tehnologije",
+      "permalink": "/docs/izvedba-projekta/koristeni-alati"
+    }
+  }
+}

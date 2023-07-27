@@ -1,0 +1,27 @@
+{
+  "unversionedId": "potrebne-specifikacije",
+  "id": "potrebne-specifikacije",
+  "title": "2. Potrebne specifikacije",
+  "description": "Za korištenje aplikacije svim korisnicima potreban je mobitel. Korisnicima je potrebna kamera koja ima mogućnost skeniranja QR-kodova te pristup internetu.",
+  "source": "@site/docs/potrebne-specifikacije.md",
+  "sourceDirName": ".",
+  "slug": "/potrebne-specifikacije",
+  "permalink": "/docs/potrebne-specifikacije",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/potrebne-specifikacije.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.2. Uloge korisnika i njihov opis",
+    "permalink": "/docs/pocetak/uloge-korisnika"
+  },
+  "next": {
+    "title": "3. Priručnik za korisnike",
+    "permalink": "/docs/category/3-priručnik-za-korisnike"
+  }
+}
