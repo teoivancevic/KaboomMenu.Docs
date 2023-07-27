@@ -186,16 +186,12 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-5e8": {
+  "/docs-06a": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsffc-fa3"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
-  },
-  "/docs/category/0-docusaurus-tutorial-c4f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-0-docusaurus-tutorial-8-b-7-649"
   },
   "/docs/category/1-početak-59d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -217,41 +213,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
   },
-  "/docs/docusaurus-tutorial/intro-889": {
+  "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-intro-4-ef-dbd"
-  },
-  "/docs/docusaurus-tutorial/tutorial-basics/congratulations-438": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-tutorial-basics-congratulationsfba-4c1"
-  },
-  "/docs/docusaurus-tutorial/tutorial-basics/create-a-blog-post-df8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-tutorial-basics-create-a-blog-posta-1-a-4b9"
-  },
-  "/docs/docusaurus-tutorial/tutorial-basics/create-a-document-7de": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-tutorial-basics-create-a-documentb-97-817"
-  },
-  "/docs/docusaurus-tutorial/tutorial-basics/create-a-page-e87": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-tutorial-basics-create-a-page-142-11a"
-  },
-  "/docs/docusaurus-tutorial/tutorial-basics/deploy-your-site-a66": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-tutorial-basics-deploy-your-siteb-29-177"
-  },
-  "/docs/docusaurus-tutorial/tutorial-basics/markdown-features-e63": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-tutorial-basics-markdown-featuresf-5-d-8ad"
-  },
-  "/docs/docusaurus-tutorial/tutorial-extras/manage-docs-versions-019": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-tutorial-extras-manage-docs-versions-9-ab-c6a"
-  },
-  "/docs/docusaurus-tutorial/tutorial-extras/translate-your-site-7b0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docusaurus-tutorial-tutorial-extras-translate-your-site-3-a-2-90e"
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/izvedba-projekta/arhitektura-a02": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -276,6 +240,38 @@
   "/docs/prirucnik-za-korisnike/poruka-dobrodoslice-d5d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-prirucnik-za-korisnike-poruka-dobrodosliceb-76-3ac"
+  },
+  "/docs/tutorial-basics/congratulations-793": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-congratulations-822-958"
+  },
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+  },
+  "/docs/tutorial-basics/create-a-document-c2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+  },
+  "/docs/tutorial-basics/create-a-page-f44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+  },
+  "/docs/tutorial-basics/deploy-your-site-e46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+  },
+  "/docs/tutorial-basics/markdown-features-4b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+  },
+  "/docs/tutorial-extras/translate-your-site-2d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
   "/docs/zakljucak-f18": {
     "__comp": "__comp---theme-doc-item-178-a40",

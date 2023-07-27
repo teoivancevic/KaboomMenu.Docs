@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "Tutorial Intro",
-      "permalink": "/docs/docusaurus-tutorial/intro"
+      "permalink": "/docs/intro"
     },
     "next": {
       "title": "Create a Page",
-      "permalink": "/docs/docusaurus-tutorial/tutorial-basics/create-a-page"
+      "permalink": "/docs/tutorial-basics/create-a-page"
     }
   }
 }
