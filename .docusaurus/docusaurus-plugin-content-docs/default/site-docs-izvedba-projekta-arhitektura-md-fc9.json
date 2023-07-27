@@ -6,7 +6,7 @@
   "source": "@site/docs/izvedba-projekta/arhitektura.md",
   "sourceDirName": "izvedba-projekta",
   "slug": "/izvedba-projekta/arhitektura",
-  "permalink": "/${projectName}/docs/izvedba-projekta/arhitektura",
+  "permalink": "/docs/izvedba-projekta/arhitektura",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/izvedba-projekta/arhitektura.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "4.1. Korišteni alati i tehnologije",
-    "permalink": "/${projectName}/docs/izvedba-projekta/koristeni-alati"
+    "permalink": "/docs/izvedba-projekta/koristeni-alati"
   },
   "next": {
     "title": "5. Zaključak",
-    "permalink": "/${projectName}/docs/zakljucak"
+    "permalink": "/docs/zakljucak"
   }
 }
