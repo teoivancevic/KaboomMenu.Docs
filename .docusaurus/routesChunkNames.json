@@ -1,5 +1,5 @@
 {
-  "/${projectName}/blog-26c": {
+  "/blog-332": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "344c71d7"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "8c898807"
+    "metadata": "b2b675dd"
   },
-  "/${projectName}/blog/archive-12c": {
+  "/blog/archive-710": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "344c71d7"
     },
-    "archive": "1e8b4724"
+    "archive": "b2f554cd"
   },
-  "/${projectName}/blog/first-blog-post-2ba": {
+  "/blog/first-blog-post-00d": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "344c71d7"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/${projectName}/blog/long-blog-post-6c8": {
+  "/blog/long-blog-post-23f": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "344c71d7"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/${projectName}/blog/mdx-blog-post-52f": {
+  "/blog/mdx-blog-post-5e1": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "344c71d7"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/${projectName}/blog/tags-a2e": {
+  "/blog/tags-9fc": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "344c71d7"
     },
     "sidebar": "814f3328",
-    "tags": "3451fecb"
+    "tags": "a7023ddc"
   },
-  "/${projectName}/blog/tags/docusaurus-0bf": {
+  "/blog/tags/docusaurus-01c": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "344c71d7"
@@ -80,10 +80,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "efc859a6",
-    "listMetadata": "91b2cb90"
+    "tag": "a80da1cf",
+    "listMetadata": "608ae6a4"
   },
-  "/${projectName}/blog/tags/facebook-356": {
+  "/blog/tags/facebook-a09": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "344c71d7"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "03011b13",
-    "listMetadata": "8cef8361"
+    "tag": "031793e1",
+    "listMetadata": "096bfee4"
   },
-  "/${projectName}/blog/tags/hello-025": {
+  "/blog/tags/hello-501": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "344c71d7"
@@ -111,10 +111,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "53155b12",
-    "listMetadata": "a901c556"
+    "tag": "30a24c52",
+    "listMetadata": "66406991"
   },
-  "/${projectName}/blog/tags/hola-3b9": {
+  "/blog/tags/hola-805": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "344c71d7"
@@ -125,10 +125,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "e6833e23",
-    "listMetadata": "8263b694"
+    "tag": "e16015ca",
+    "listMetadata": "4c9e35b1"
   },
-  "/${projectName}/blog/welcome-b9c": {
+  "/blog/welcome-957": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "344c71d7"
@@ -136,105 +136,105 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/${projectName}/markdown-page-6fc": {
+  "/markdown-page-485": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "82e5ff55"
     },
     "content": "393be207"
   },
-  "/${projectName}/docs-8c1": {
+  "/docs-06a": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "ffcd0959"
     },
     "versionMetadata": "935f2afb"
   },
-  "/${projectName}/docs/category/1-početak-ce0": {
+  "/docs/category/1-početak-59d": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "6d1be4c0"
+    "categoryGeneratedIndex": "efbd27d9"
   },
-  "/${projectName}/docs/category/3-priručnik-za-korisnike-069": {
+  "/docs/category/3-priručnik-za-korisnike-366": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "6bdc8df1"
+    "categoryGeneratedIndex": "1ebaf552"
   },
-  "/${projectName}/docs/category/4-izvedba-projekta-14e": {
+  "/docs/category/4-izvedba-projekta-de1": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "07b09730"
+    "categoryGeneratedIndex": "f850091c"
   },
-  "/${projectName}/docs/category/tutorial---basics-2ea": {
+  "/docs/category/tutorial---basics-d44": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "b397d865"
+    "categoryGeneratedIndex": "ea88f2a1"
   },
-  "/${projectName}/docs/category/tutorial---extras-7e9": {
+  "/docs/category/tutorial---extras-f09": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "b7c61a67"
+    "categoryGeneratedIndex": "c844b82d"
   },
-  "/${projectName}/docs/intro-149": {
+  "/docs/intro-aed": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/${projectName}/docs/izvedba-projekta/arhitektura-a22": {
+  "/docs/izvedba-projekta/arhitektura-a02": {
     "__comp": "17896441",
     "content": "fc92506f"
   },
-  "/${projectName}/docs/izvedba-projekta/koristeni-alati-6e4": {
+  "/docs/izvedba-projekta/koristeni-alati-790": {
     "__comp": "17896441",
     "content": "a17630d9"
   },
-  "/${projectName}/docs/pocetak/o-aplikaciji-719": {
+  "/docs/pocetak/o-aplikaciji-8a4": {
     "__comp": "17896441",
     "content": "231da709"
   },
-  "/${projectName}/docs/pocetak/uloge-korisnika-712": {
+  "/docs/pocetak/uloge-korisnika-af7": {
     "__comp": "17896441",
     "content": "58bf382e"
   },
-  "/${projectName}/docs/potrebne-specifikacije-ba7": {
+  "/docs/potrebne-specifikacije-405": {
     "__comp": "17896441",
     "content": "0c6411cc"
   },
-  "/${projectName}/docs/prirucnik-za-korisnike/poruka-dobrodoslice-399": {
+  "/docs/prirucnik-za-korisnike/poruka-dobrodoslice-d5d": {
     "__comp": "17896441",
     "content": "b76a7068"
   },
-  "/${projectName}/docs/tutorial-basics/congratulations-6f4": {
+  "/docs/tutorial-basics/congratulations-793": {
     "__comp": "17896441",
     "content": "822bd8ab"
   },
-  "/${projectName}/docs/tutorial-basics/create-a-blog-post-837": {
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
     "__comp": "17896441",
     "content": "533a09ca"
   },
-  "/${projectName}/docs/tutorial-basics/create-a-document-c7d": {
+  "/docs/tutorial-basics/create-a-document-c2d": {
     "__comp": "17896441",
     "content": "1e4232ab"
   },
-  "/${projectName}/docs/tutorial-basics/create-a-page-be4": {
+  "/docs/tutorial-basics/create-a-page-f44": {
     "__comp": "17896441",
     "content": "5c868d36"
   },
-  "/${projectName}/docs/tutorial-basics/deploy-your-site-357": {
+  "/docs/tutorial-basics/deploy-your-site-e46": {
     "__comp": "17896441",
     "content": "f55d3e7a"
   },
-  "/${projectName}/docs/tutorial-basics/markdown-features-4b2": {
+  "/docs/tutorial-basics/markdown-features-4b7": {
     "__comp": "17896441",
     "content": "18c41134"
   },
-  "/${projectName}/docs/tutorial-extras/manage-docs-versions-ffb": {
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "17896441",
     "content": "dff1c289"
   },
-  "/${projectName}/docs/tutorial-extras/translate-your-site-dca": {
+  "/docs/tutorial-extras/translate-your-site-2d7": {
     "__comp": "17896441",
     "content": "e44a2883"
   },
-  "/${projectName}/docs/zakljucak-fa2": {
+  "/docs/zakljucak-f18": {
     "__comp": "17896441",
     "content": "f5009eee"
   },
-  "/${projectName}/-ce7": {
+  "/-0cf": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "82e5ff55"

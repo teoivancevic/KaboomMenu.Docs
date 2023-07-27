@@ -8,7 +8,7 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://${organizationName}.github.io",
-  "baseUrl": "/${projectName}/",
+  "baseUrl": "/",
   "organizationName": "teoivancevic",
   "projectName": "KaboomMenu.Docs",
   "trailingSlash": false,
