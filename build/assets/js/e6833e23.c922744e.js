@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaboomdocs=self.webpackChunkkaboomdocs||[]).push([[7222],{219:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/${projectName}/blog/tags/hola","allTagsPath":"/${projectName}/blog/tags","count":1}')}}]);

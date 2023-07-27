@@ -4,19 +4,19 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "Kaboom Menu Docs",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://${organizationName}.github.io",
+  "baseUrl": "/${projectName}/",
+  "organizationName": "teoivancevic",
+  "projectName": "KaboomMenu.Docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "hr",
     "locales": [
-      "en"
+      "hr"
     ],
     "path": "i18n",
     "localeConfigs": {}

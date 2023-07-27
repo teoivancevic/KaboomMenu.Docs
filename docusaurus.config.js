@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Kaboom Menu Docs',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'teo.ivancevic', // Usually your GitHub org/user name.
+  organizationName: 'teoivancevic', // Usually your GitHub org/user name.
   projectName: 'KaboomMenu.Docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',

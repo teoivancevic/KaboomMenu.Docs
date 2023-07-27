@@ -1,0 +1,16 @@
+{
+  "title": "3. Priručnik za korisnike",
+  "description": "Upute za pokretanje stranice\nZa pokretanje aplikacije potrebno je otići na web stranicu aplikacije:\nhttps://kaboom.menu\nKliknuti gumb “Login”, zatim “Sign up” i kreirati korisnički račun.\nZa korištenje aplikacije možete se referirati na video ili tehničku dokumentaciju na google driveu.\nEmail: jecoyor624@appxapi.com\nPassword: Pa$$word1",
+  "slug": "/category/3-priručnik-za-korisnike",
+  "permalink": "/${projectName}/docs/category/3-priručnik-za-korisnike",
+  "navigation": {
+    "previous": {
+      "title": "2. Potrebne specifikacije",
+      "permalink": "/${projectName}/docs/potrebne-specifikacije"
+    },
+    "next": {
+      "title": "3.1. Poruka dobrodošlice",
+      "permalink": "/${projectName}/docs/prirucnik-za-korisnike/poruka-dobrodoslice"
+    }
+  }
+}

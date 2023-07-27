@@ -6,7 +6,7 @@
   "source": "@site/docs/pocetak/o-aplikaciji.md",
   "sourceDirName": "pocetak",
   "slug": "/pocetak/o-aplikaciji",
-  "permalink": "/docs/pocetak/o-aplikaciji",
+  "permalink": "/${projectName}/docs/pocetak/o-aplikaciji",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pocetak/o-aplikaciji.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "1. Početak",
-    "permalink": "/docs/category/1-početak"
+    "permalink": "/${projectName}/docs/category/1-početak"
   },
   "next": {
     "title": "1.2. Uloge korisnika i njihov opis",
-    "permalink": "/docs/pocetak/uloge-korisnika"
+    "permalink": "/${projectName}/docs/pocetak/uloge-korisnika"
   }
 }
