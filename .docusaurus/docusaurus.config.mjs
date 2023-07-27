@@ -11,12 +11,13 @@ export default {
   "baseUrl": "/${projectName}/",
   "organizationName": "teoivancevic",
   "projectName": "KaboomMenu.Docs",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "hr",
+    "defaultLocale": "en",
     "locales": [
-      "hr"
+      "en"
     ],
     "path": "i18n",
     "localeConfigs": {}

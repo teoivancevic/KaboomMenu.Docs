@@ -20,6 +20,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'teoivancevic', // Usually your GitHub org/user name.
   projectName: 'KaboomMenu.Docs', // Usually your repo name.
+  trailingSlash: false,
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
