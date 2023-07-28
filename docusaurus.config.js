@@ -11,15 +11,16 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://${organizationName}.github.io',
+  url: 'https://teoivancevic.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/KaboomMenu.Docs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'teoivancevic', // Usually your GitHub org/user name.
   projectName: 'KaboomMenu.Docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
 
