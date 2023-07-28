@@ -41,8 +41,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "prirucnik-za-korisnike/popis-stranica",
+              "path": "/docs/prirucnik-za-korisnike/popis-stranica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "prirucnik-za-korisnike/poruka-dobrodoslice",
               "path": "/docs/prirucnik-za-korisnike/poruka-dobrodoslice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "prirucnik-za-korisnike/postavke-racuna",
+              "path": "/docs/prirucnik-za-korisnike/postavke-racuna",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "prirucnik-za-korisnike/prijava",
+              "path": "/docs/prirucnik-za-korisnike/prijava",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "prirucnik-za-korisnike/upute-za-pokretanje",
+              "path": "/docs/prirucnik-za-korisnike/upute-za-pokretanje",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -98,21 +118,6 @@
             {
               "id": "/category/tutorial---extras",
               "path": "/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/1-početak",
-              "path": "/docs/category/1-početak",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/3-priručnik-za-korisnike",
-              "path": "/docs/category/3-priručnik-za-korisnike",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/4-izvedba-projekta",
-              "path": "/docs/category/4-izvedba-projekta",
               "sidebar": "tutorialSidebar"
             }
           ],

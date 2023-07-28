@@ -1,7 +1,7 @@
 {
   "unversionedId": "prirucnik-za-korisnike/poruka-dobrodoslice",
   "id": "prirucnik-za-korisnike/poruka-dobrodoslice",
-  "title": "3.1. Poruka dobrodošlice",
+  "title": "3.2. Poruka dobrodošlice",
   "description": "Slika 1. Početna stranica",
   "source": "@site/docs/prirucnik-za-korisnike/poruka-dobrodoslice.md",
   "sourceDirName": "prirucnik-za-korisnike",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/docs/prirucnik-za-korisnike/poruka-dobrodoslice.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "3. Priručnik za korisnike",
-    "permalink": "/docs/category/3-priručnik-za-korisnike"
+    "title": "3.1. Upute za pokretanje stranice",
+    "permalink": "/docs/prirucnik-za-korisnike/upute-za-pokretanje"
   },
   "next": {
-    "title": "4. Izvedba projekta",
-    "permalink": "/docs/category/4-izvedba-projekta"
+    "title": "3.3. Prijava u korisnički račun",
+    "permalink": "/docs/prirucnik-za-korisnike/prijava"
   }
 }

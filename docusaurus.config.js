@@ -70,7 +70,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Kaboom Menu',
+        title: 'Kaboom Docs',
         logo: {
           alt: 'Kaboom Menu Logo',
           src: 'img/logo.svg',
@@ -83,6 +83,11 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://kaboom.menu',
+            label: 'Kaboom Menu',
+            position: 'right',
+          },
           {
             href: 'https://github.com/teoivancevic',
             label: 'GitHub',

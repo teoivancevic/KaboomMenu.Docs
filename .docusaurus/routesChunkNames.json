@@ -143,24 +143,12 @@
     },
     "content": "393be207"
   },
-  "/docs-06a": {
+  "/docs-ffb": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "ffcd0959"
     },
     "versionMetadata": "935f2afb"
-  },
-  "/docs/category/1-početak-59d": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "efbd27d9"
-  },
-  "/docs/category/3-priručnik-za-korisnike-366": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "1ebaf552"
-  },
-  "/docs/category/4-izvedba-projekta-de1": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "f850091c"
   },
   "/docs/category/tutorial---basics-d44": {
     "__comp": "14eb3368",
@@ -194,9 +182,25 @@
     "__comp": "17896441",
     "content": "0c6411cc"
   },
+  "/docs/prirucnik-za-korisnike/popis-stranica-4dd": {
+    "__comp": "17896441",
+    "content": "45ea931f"
+  },
   "/docs/prirucnik-za-korisnike/poruka-dobrodoslice-d5d": {
     "__comp": "17896441",
     "content": "b76a7068"
+  },
+  "/docs/prirucnik-za-korisnike/postavke-racuna-27d": {
+    "__comp": "17896441",
+    "content": "2ac2669c"
+  },
+  "/docs/prirucnik-za-korisnike/prijava-1a2": {
+    "__comp": "17896441",
+    "content": "1f673bed"
+  },
+  "/docs/prirucnik-za-korisnike/upute-za-pokretanje-8f3": {
+    "__comp": "17896441",
+    "content": "844f5a57"
   },
   "/docs/tutorial-basics/congratulations-793": {
     "__comp": "17896441",

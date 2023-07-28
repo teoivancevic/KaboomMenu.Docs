@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# 3.1. Poruka dobrodošlice
+# 3.2. Poruka dobrodošlice
 
 Slika 1. Početna stranica
 

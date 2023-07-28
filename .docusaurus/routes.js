@@ -64,26 +64,8 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '06a'),
+    component: ComponentCreator('/docs', 'ffb'),
     routes: [
-      {
-        path: '/docs/category/1-početak',
-        component: ComponentCreator('/docs/category/1-početak', '59d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/3-priručnik-za-korisnike',
-        component: ComponentCreator('/docs/category/3-priručnik-za-korisnike', '366'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/4-izvedba-projekta',
-        component: ComponentCreator('/docs/category/4-izvedba-projekta', 'de1'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
       {
         path: '/docs/category/tutorial---basics',
         component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
@@ -133,8 +115,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/prirucnik-za-korisnike/popis-stranica',
+        component: ComponentCreator('/docs/prirucnik-za-korisnike/popis-stranica', '4dd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/prirucnik-za-korisnike/poruka-dobrodoslice',
         component: ComponentCreator('/docs/prirucnik-za-korisnike/poruka-dobrodoslice', 'd5d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/prirucnik-za-korisnike/postavke-racuna',
+        component: ComponentCreator('/docs/prirucnik-za-korisnike/postavke-racuna', '27d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/prirucnik-za-korisnike/prijava',
+        component: ComponentCreator('/docs/prirucnik-za-korisnike/prijava', '1a2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/prirucnik-za-korisnike/upute-za-pokretanje',
+        component: ComponentCreator('/docs/prirucnik-za-korisnike/upute-za-pokretanje', '8f3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

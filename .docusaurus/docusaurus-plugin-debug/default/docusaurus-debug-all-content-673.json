@@ -85,8 +85,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "4. Izvedba projekta",
-                "permalink": "/docs/category/4-izvedba-projekta"
+                "title": "3.5. Popis stranica",
+                "permalink": "/docs/prirucnik-za-korisnike/popis-stranica"
               },
               "next": {
                 "title": "4.2. Arhitektira i implementacija projekta",
@@ -112,8 +112,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "1. Početak",
-                "permalink": "/docs/category/1-početak"
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
               },
               "next": {
                 "title": "1.2. Uloge korisnika i njihov opis",
@@ -169,14 +169,41 @@
                 "permalink": "/docs/pocetak/uloge-korisnika"
               },
               "next": {
-                "title": "3. Priručnik za korisnike",
-                "permalink": "/docs/category/3-priručnik-za-korisnike"
+                "title": "3.1. Upute za pokretanje stranice",
+                "permalink": "/docs/prirucnik-za-korisnike/upute-za-pokretanje"
+              }
+            },
+            {
+              "unversionedId": "prirucnik-za-korisnike/popis-stranica",
+              "id": "prirucnik-za-korisnike/popis-stranica",
+              "title": "3.5. Popis stranica",
+              "description": "3.5.1. Uređivanje podataka o korisniku, tvrtkama i lokacijama",
+              "source": "@site/docs/prirucnik-za-korisnike/popis-stranica.md",
+              "sourceDirName": "prirucnik-za-korisnike",
+              "slug": "/prirucnik-za-korisnike/popis-stranica",
+              "permalink": "/docs/prirucnik-za-korisnike/popis-stranica",
+              "draft": false,
+              "editUrl": "https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/docs/prirucnik-za-korisnike/popis-stranica.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.4. Postavke korisničkog računa",
+                "permalink": "/docs/prirucnik-za-korisnike/postavke-racuna"
+              },
+              "next": {
+                "title": "4.1. Korišteni alati i tehnologije",
+                "permalink": "/docs/izvedba-projekta/koristeni-alati"
               }
             },
             {
               "unversionedId": "prirucnik-za-korisnike/poruka-dobrodoslice",
               "id": "prirucnik-za-korisnike/poruka-dobrodoslice",
-              "title": "3.1. Poruka dobrodošlice",
+              "title": "3.2. Poruka dobrodošlice",
               "description": "Slika 1. Početna stranica",
               "source": "@site/docs/prirucnik-za-korisnike/poruka-dobrodoslice.md",
               "sourceDirName": "prirucnik-za-korisnike",
@@ -186,18 +213,99 @@
               "editUrl": "https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/docs/prirucnik-za-korisnike/poruka-dobrodoslice.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.1. Upute za pokretanje stranice",
+                "permalink": "/docs/prirucnik-za-korisnike/upute-za-pokretanje"
+              },
+              "next": {
+                "title": "3.3. Prijava u korisnički račun",
+                "permalink": "/docs/prirucnik-za-korisnike/prijava"
+              }
+            },
+            {
+              "unversionedId": "prirucnik-za-korisnike/postavke-racuna",
+              "id": "prirucnik-za-korisnike/postavke-racuna",
+              "title": "3.4. Postavke korisničkog računa",
+              "description": "",
+              "source": "@site/docs/prirucnik-za-korisnike/postavke-racuna.md",
+              "sourceDirName": "prirucnik-za-korisnike",
+              "slug": "/prirucnik-za-korisnike/postavke-racuna",
+              "permalink": "/docs/prirucnik-za-korisnike/postavke-racuna",
+              "draft": false,
+              "editUrl": "https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/docs/prirucnik-za-korisnike/postavke-racuna.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.3. Prijava u korisnički račun",
+                "permalink": "/docs/prirucnik-za-korisnike/prijava"
+              },
+              "next": {
+                "title": "3.5. Popis stranica",
+                "permalink": "/docs/prirucnik-za-korisnike/popis-stranica"
+              }
+            },
+            {
+              "unversionedId": "prirucnik-za-korisnike/prijava",
+              "id": "prirucnik-za-korisnike/prijava",
+              "title": "3.3. Prijava u korisnički račun",
+              "description": "",
+              "source": "@site/docs/prirucnik-za-korisnike/prijava.md",
+              "sourceDirName": "prirucnik-za-korisnike",
+              "slug": "/prirucnik-za-korisnike/prijava",
+              "permalink": "/docs/prirucnik-za-korisnike/prijava",
+              "draft": false,
+              "editUrl": "https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/docs/prirucnik-za-korisnike/prijava.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.2. Poruka dobrodošlice",
+                "permalink": "/docs/prirucnik-za-korisnike/poruka-dobrodoslice"
+              },
+              "next": {
+                "title": "3.4. Postavke korisničkog računa",
+                "permalink": "/docs/prirucnik-za-korisnike/postavke-racuna"
+              }
+            },
+            {
+              "unversionedId": "prirucnik-za-korisnike/upute-za-pokretanje",
+              "id": "prirucnik-za-korisnike/upute-za-pokretanje",
+              "title": "3.1. Upute za pokretanje stranice",
+              "description": "Za pokretanje aplikacije potrebno je otići na web stranicu aplikacije:",
+              "source": "@site/docs/prirucnik-za-korisnike/upute-za-pokretanje.md",
+              "sourceDirName": "prirucnik-za-korisnike",
+              "slug": "/prirucnik-za-korisnike/upute-za-pokretanje",
+              "permalink": "/docs/prirucnik-za-korisnike/upute-za-pokretanje",
+              "draft": false,
+              "editUrl": "https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/docs/prirucnik-za-korisnike/upute-za-pokretanje.md",
+              "tags": [],
+              "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "3. Priručnik za korisnike",
-                "permalink": "/docs/category/3-priručnik-za-korisnike"
+                "title": "2. Potrebne specifikacije",
+                "permalink": "/docs/potrebne-specifikacije"
               },
               "next": {
-                "title": "4. Izvedba projekta",
-                "permalink": "/docs/category/4-izvedba-projekta"
+                "title": "3.2. Poruka dobrodošlice",
+                "permalink": "/docs/prirucnik-za-korisnike/poruka-dobrodoslice"
               }
             },
             {
@@ -412,8 +520,8 @@
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
-                "title": "1. Početak",
-                "permalink": "/docs/category/1-početak"
+                "title": "1.1. O aplikaciji",
+                "permalink": "/docs/pocetak/o-aplikaciji"
               }
             },
             {
@@ -520,13 +628,7 @@
                     "type": "doc",
                     "id": "pocetak/uloge-korisnika"
                   }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/1-početak",
-                  "permalink": "/docs/category/1-početak"
-                }
+                ]
               },
               {
                 "type": "doc",
@@ -540,15 +642,25 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "prirucnik-za-korisnike/upute-za-pokretanje"
+                  },
+                  {
+                    "type": "doc",
                     "id": "prirucnik-za-korisnike/poruka-dobrodoslice"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "prirucnik-za-korisnike/prijava"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "prirucnik-za-korisnike/postavke-racuna"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "prirucnik-za-korisnike/popis-stranica"
                   }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "Upute za pokretanje stranice\nZa pokretanje aplikacije potrebno je otići na web stranicu aplikacije:\nhttps://kaboom.menu\nKliknuti gumb “Login”, zatim “Sign up” i kreirati korisnički račun.\nZa korištenje aplikacije možete se referirati na video ili tehničku dokumentaciju na google driveu.\nEmail: jecoyor624@appxapi.com\nPassword: Pa$$word1",
-                  "slug": "/category/3-priručnik-za-korisnike",
-                  "permalink": "/docs/category/3-priručnik-za-korisnike"
-                }
+                ]
               },
               {
                 "type": "category",
@@ -564,13 +676,7 @@
                     "type": "doc",
                     "id": "izvedba-projekta/arhitektura"
                   }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/4-izvedba-projekta",
-                  "permalink": "/docs/category/4-izvedba-projekta"
-                }
+                ]
               },
               {
                 "type": "doc",

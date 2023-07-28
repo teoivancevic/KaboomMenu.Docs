@@ -99,8 +99,7 @@
             "href": "/docs/pocetak/uloge-korisnika",
             "docId": "pocetak/uloge-korisnika"
           }
-        ],
-        "href": "/docs/category/1-početak"
+        ]
       },
       {
         "type": "link",
@@ -116,12 +115,35 @@
         "items": [
           {
             "type": "link",
-            "label": "3.1. Poruka dobrodošlice",
+            "label": "3.1. Upute za pokretanje stranice",
+            "href": "/docs/prirucnik-za-korisnike/upute-za-pokretanje",
+            "docId": "prirucnik-za-korisnike/upute-za-pokretanje"
+          },
+          {
+            "type": "link",
+            "label": "3.2. Poruka dobrodošlice",
             "href": "/docs/prirucnik-za-korisnike/poruka-dobrodoslice",
             "docId": "prirucnik-za-korisnike/poruka-dobrodoslice"
+          },
+          {
+            "type": "link",
+            "label": "3.3. Prijava u korisnički račun",
+            "href": "/docs/prirucnik-za-korisnike/prijava",
+            "docId": "prirucnik-za-korisnike/prijava"
+          },
+          {
+            "type": "link",
+            "label": "3.4. Postavke korisničkog računa",
+            "href": "/docs/prirucnik-za-korisnike/postavke-racuna",
+            "docId": "prirucnik-za-korisnike/postavke-racuna"
+          },
+          {
+            "type": "link",
+            "label": "3.5. Popis stranica",
+            "href": "/docs/prirucnik-za-korisnike/popis-stranica",
+            "docId": "prirucnik-za-korisnike/popis-stranica"
           }
-        ],
-        "href": "/docs/category/3-priručnik-za-korisnike"
+        ]
       },
       {
         "type": "category",
@@ -141,8 +163,7 @@
             "href": "/docs/izvedba-projekta/arhitektura",
             "docId": "izvedba-projekta/arhitektura"
           }
-        ],
-        "href": "/docs/category/4-izvedba-projekta"
+        ]
       },
       {
         "type": "link",
@@ -189,10 +210,34 @@
       "description": "Za korištenje aplikacije svim korisnicima potreban je mobitel. Korisnicima je potrebna kamera koja ima mogućnost skeniranja QR-kodova te pristup internetu.",
       "sidebar": "tutorialSidebar"
     },
+    "prirucnik-za-korisnike/popis-stranica": {
+      "id": "prirucnik-za-korisnike/popis-stranica",
+      "title": "3.5. Popis stranica",
+      "description": "3.5.1. Uređivanje podataka o korisniku, tvrtkama i lokacijama",
+      "sidebar": "tutorialSidebar"
+    },
     "prirucnik-za-korisnike/poruka-dobrodoslice": {
       "id": "prirucnik-za-korisnike/poruka-dobrodoslice",
-      "title": "3.1. Poruka dobrodošlice",
+      "title": "3.2. Poruka dobrodošlice",
       "description": "Slika 1. Početna stranica",
+      "sidebar": "tutorialSidebar"
+    },
+    "prirucnik-za-korisnike/postavke-racuna": {
+      "id": "prirucnik-za-korisnike/postavke-racuna",
+      "title": "3.4. Postavke korisničkog računa",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "prirucnik-za-korisnike/prijava": {
+      "id": "prirucnik-za-korisnike/prijava",
+      "title": "3.3. Prijava u korisnički račun",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "prirucnik-za-korisnike/upute-za-pokretanje": {
+      "id": "prirucnik-za-korisnike/upute-za-pokretanje",
+      "title": "3.1. Upute za pokretanje stranice",
+      "description": "Za pokretanje aplikacije potrebno je otići na web stranicu aplikacije:",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {
