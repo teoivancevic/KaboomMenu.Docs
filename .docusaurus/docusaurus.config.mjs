@@ -5,12 +5,13 @@
  */
 export default {
   "title": "Kaboom Menu Docs",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Documentation for the Kaboom Menu application.",
   "favicon": "img/favicon.ico",
-  "url": "https://${organizationName}.github.io",
+  "url": "https://docs.kaboom.menu",
   "baseUrl": "/",
   "organizationName": "teoivancevic",
   "projectName": "KaboomMenu.Docs",
+  "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -28,11 +29,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/teo/Documents/GitHub/KaboomMenu.Docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/"
         },
         "theme": {
           "customCss": "/Users/teo/Documents/GitHub/KaboomMenu.Docs/src/css/custom.css"
@@ -43,9 +44,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Kaboom Menu",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Kaboom Menu Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -53,7 +54,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
           "to": "/blog",
@@ -61,7 +62,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/teoivancevic",
           "label": "GitHub",
           "position": "right"
         }
@@ -69,14 +70,18 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "links": [
         {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Docs",
+              "to": "/docs/pocetak/o-aplikaciji"
+            },
+            {
+              "label": "User manual",
+              "to": "/docs/prirucnik-za-korisnike/poruka-dobrodoslice"
             }
           ]
         },
@@ -84,16 +89,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://discordapp.com/"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/"
             }
           ]
         },
@@ -106,12 +107,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/teoivancevic"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 <a href=\"https://kaboom.menu\">Kaboom Menu</a>. Built with Docusaurus."
     },
     "prism": {
       "theme": {

@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Kaboom Menu Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Documentation for the Kaboom Menu application.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -48,14 +48,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/teoivancevic/KaboomMenu.Docs/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -70,9 +70,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Kaboom Menu',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Kaboom Menu Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -80,42 +80,42 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/teoivancevic',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Docs',
+                to: '/docs/pocetak/o-aplikaciji',
               },
+              {
+                label: 'User manual',
+                to: '/docs/prirucnik-za-korisnike/poruka-dobrodoslice',
+              }
             ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/',
               },
             ],
           },
@@ -128,12 +128,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/teoivancevic',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://kaboom.menu">Kaboom Menu</a>. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
