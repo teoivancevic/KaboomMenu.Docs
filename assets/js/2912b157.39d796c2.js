@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkaboomdocs=self.webpackChunkkaboomdocs||[]).push([[1780],{7614:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/KaboomMenu.Docs/blog/tags/docusaurus","allTagsPath":"/KaboomMenu.Docs/blog/tags","count":4}')}}]);
