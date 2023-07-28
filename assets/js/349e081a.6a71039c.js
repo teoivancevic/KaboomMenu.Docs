@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaboomdocs=self.webpackChunkkaboomdocs||[]).push([[4910],{2174:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/KaboomMenu.Docs/blog/tags/facebook","allTagsPath":"/KaboomMenu.Docs/blog/tags","count":1}')}}]);

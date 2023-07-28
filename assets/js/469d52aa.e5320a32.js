@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaboomdocs=self.webpackChunkkaboomdocs||[]).push([[5469],{3266:o=>{o.exports=JSON.parse('{"label":"hello","permalink":"/KaboomMenu.Docs/blog/tags/hello","allTagsPath":"/KaboomMenu.Docs/blog/tags","count":2}')}}]);

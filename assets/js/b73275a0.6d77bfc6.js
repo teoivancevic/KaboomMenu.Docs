@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkaboomdocs=self.webpackChunkkaboomdocs||[]).push([[6798],{2346:o=>{o.exports=JSON.parse('{"permalink":"/KaboomMenu.Docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
